@@ -1,0 +1,51 @@
+name: selfcare_diary
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  #Riverpod
+  flutter_riverpod: ^1.0.3
+
+  #Mocking
+  mockito: ^5.2.0
+
+  #Firebase
+  firebase_core: ^1.17.1
+  firebase_storage: ^10.2.17
+  firebase_messaging: ^11.4.1
+  firebase_auth: ^3.3.19
+  cloud_firestore: ^3.1.13
+
+  shared_preferences: ^2.0.15
+
+  #UI related
+  cupertino_icons: ^1.0.2
+  responsive_framework: ^0.2.0
+  rounded_loading_button: ^2.1.0
+  top_snackbar_flutter: ^1.1.1
+  equatable: ^2.0.3
+  image_picker: ^0.8.5+3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/email.png
+    - assets/images/banner.png
+

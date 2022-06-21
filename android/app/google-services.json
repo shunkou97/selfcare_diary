@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59249807565",
+    "project_id": "selfcare-diary-539e7",
+    "storage_bucket": "selfcare-diary-539e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59249807565:android:84947ab1b535bbbdbd9984",
+        "android_client_info": {
+          "package_name": "com.example.selfcare_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59249807565-tgf7141j9qp8jker7eh1nuoq0srje9o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hffjiGtW7gD05bytdKWaB4moFYnm-QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59249807565-tgf7141j9qp8jker7eh1nuoq0srje9o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
